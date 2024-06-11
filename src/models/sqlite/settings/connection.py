@@ -10,3 +10,5 @@ class DBConnectionHandler:
         
     def get_engine(self):
         return self.__engine
+    
+db_connetion_handler = DBConnectionHandler()
