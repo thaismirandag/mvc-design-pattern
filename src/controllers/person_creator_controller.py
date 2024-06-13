@@ -1,4 +1,4 @@
-import re 
+import re
 from src.models.sqlite.interfaces.people_repository import PeopleRepositoryInterface
 
 

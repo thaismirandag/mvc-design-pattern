@@ -35,5 +35,3 @@ def test_find():
     }
 
     assert response == expected_response
-
-
